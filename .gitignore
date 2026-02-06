@@ -1,5 +1,7 @@
 # Entorno virtual
 venv_dl/
+.venv/
+venv_tfm/
 
 # NO subir estos datos
 datosv2/
@@ -15,4 +17,4 @@ memoria/
 __pycache__/
 *.pyc
 pruebas/
-venv_dl/
+
